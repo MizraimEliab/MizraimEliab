@@ -1,5 +1,9 @@
 # ¡Hey hi!, welcome I'm Mizraim Eliab
 
+<a href="https://github.com/MizraimEliab/?tab=follow">
+    <img src="https://img.shields.io/github/followers/MizraimEliab?label=Follow&style=social" />
+</a>
+
 ![MizraimEliab](/assets/img/Banner.jpg)
 
 - 👋 Hi, I’m @MizraimEliab
