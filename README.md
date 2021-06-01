@@ -1,4 +1,6 @@
-# About Mizraim Eliab
+# ¡Hey hi!, welcome I'm Mizraim Eliab
+
+![MizraimEliab](/assets/img/Banner.jpg)
 
 - 👋 Hi, I’m @MizraimEliab
 - 👀 I’m interested in web development and cloud solutions
