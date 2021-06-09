@@ -9,7 +9,16 @@
 
 <!-- Code about me -->
 ```
-const hellos = 3
+class MizraimEliab {
+  constructor(message) {
+    this.message = message;
+  }
+  sayWelcome() {
+    console.log(this.message);
+  }
+}
+let mizraim = new MizraimEliab("Welcome to my profile");
+mizraim.sayWelcome();
 ```
 <!-- Interests -->
 - 👀 I’m interested in web development and cloud solutions
