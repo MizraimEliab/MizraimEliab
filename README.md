@@ -26,8 +26,8 @@ mizraim.sayWelcome();
 - 💞️ I’m looking to collaborate on cloud-based projects
 <!-- Contact -->
 - 👋 Hi, I’m @MizraimEliab
-- 🌐 My website is [mizraimeliab.com]
-- 📫 How to reach me by mail [mizraimeliab168@gmail.com]
+- 🌐 My website is [mizraimeliab.com](mizraimeliab.com)
+- 📫 How to reach me by mail [mizraimeliab168@gmail.com](mizraimeliab168@gmail.com)
 
 
 
