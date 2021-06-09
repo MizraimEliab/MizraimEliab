@@ -25,9 +25,9 @@ mizraim.sayWelcome();
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on cloud-based projects
 <!-- Contact -->
-- 👋 Hi, I’m @MizraimEliab
-- 🌐 My website is [mizraimeliab.com](mizraimeliab.com)
-- 📫 How to reach me by mail [mizraimeliab168@gmail.com](mizraimeliab168@gmail.com)
+- 👋 Hi, I’m [@MizraimEliab](https://github.com/MizraimEliab/)
+- 🌐 My website is mizraimeliab.com
+- 📫 How to reach me by mail mizraimeliab168@gmail.com
 
 
 
