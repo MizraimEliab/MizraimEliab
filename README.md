@@ -8,8 +8,7 @@
 ![MizraimEliab](/assets/img/Banner.jpg)
 
 <!-- Code about me -->
-```
-class MizraimEliab {
+```class MizraimEliab {
   constructor(message) {
     this.message = message;
   }
@@ -18,8 +17,7 @@ class MizraimEliab {
   }
 }
 let mizraim = new MizraimEliab("Welcome to my profile");
-mizraim.sayWelcome();
-```
+mizraim.sayWelcome();```
 <!-- Interests -->
 - 👀 I’m interested in web development and cloud solutions
 - 🌱 I’m currently learning Microsoft Azure
