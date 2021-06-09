@@ -8,7 +8,9 @@
 ![MizraimEliab](/assets/img/Banner.jpg)
 
 <!-- Code about me -->
-
+```
+const hellos = 3
+```
 <!-- Interests -->
 - 👀 I’m interested in web development and cloud solutions
 - 🌱 I’m currently learning Microsoft Azure
