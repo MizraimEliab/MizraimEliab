@@ -1,7 +1,7 @@
 # ¡Hey hi!, welcome I'm Mizraim Eliab 👨‍💻
 
 <!-- Social networks -->
-[![Twitter: EliabAvila](https://img.shields.io/twitter/follow/EliabAvila?style=social)](https://twitter.com/EliabAvila)
+[![Twitter: EliabAvila](https://img.shields.io/twitter/follow/mizraimeliab?style=social)](https://twitter.com/EliabAvila)
 [![Linkedin: MizraimEliab](https://img.shields.io/badge/-MizraimEliab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mizraimeliab)](https://www.linkedin.com/in/mizraimeliab)
 [![GitHub MizraimEliab](https://img.shields.io/github/followers/MizraimEliab?label=follow&style=social)](https://github.com/MizraimEliab)
 <!-- Main banner -->
@@ -26,7 +26,7 @@ mizraim.sayWelcome();
 - 💞️ I’m looking to collaborate on cloud-based projects
 <!-- Contact -->
 - 👋 Hi, I’m [@MizraimEliab](https://github.com/MizraimEliab/)
-- 🌐 My website is mizraimeliab.com 
+- 🌐 My website is mizraimeliab.com
 - 📫 How to reach me by mail mizraimeliab168@gmail.com
 
 
